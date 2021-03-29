@@ -1,0 +1,12 @@
+#instuct{
+    display: flex;
+    flex-direction:column ;
+    justify-content: center;
+}
+#instuct .row{
+    display: flex;
+    justify-content: space-around ;
+}
+#battle{
+    min-width: 1200px;
+}
